@@ -11,7 +11,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/Tencent/Hunyuan3D-2 app"
+          "git clone https://github.com/Tencent/Hunyuan3D-2.1 app"
         ]
       }
     },
